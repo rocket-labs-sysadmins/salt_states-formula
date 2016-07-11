@@ -1,0 +1,8 @@
+name: salt_states
+os: RedHat, Debian
+os_family: RedHat, Debian
+version: 201507
+release: 1
+minimum_version: 2015.8
+summary: Formula for loading arbitrary salt states from pillarstack
+description: Formula for loading arbitrary salt states from pillarstack
